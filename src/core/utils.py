@@ -2,12 +2,10 @@ import csv
 import os
 
 def save_to_csv(data, filepath):
-    """Guarda uma lista de dicionários num ficheiro CSV."""
-    # Garante que a pasta existe
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
 
     if not data:
-        print("⚠️ Nenhum dado para guardar.")
+        print("Nenhum dado para guardar.")
         return
 
     # Cria lista de chaves consistente para todas as linhas
@@ -22,4 +20,4 @@ def save_to_csv(data, filepath):
         writer.writeheader()
         writer.writerows(data)
 
-    print(f"💾 Dados guardados em {filepath}")
+    print(f"Dados guardados em {filepath}")
