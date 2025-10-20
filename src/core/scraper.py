@@ -489,16 +489,14 @@ class JobScraper:
         self.driver.quit()
         return pages_html
 
-    def extract_raw_jobs(self, pages_html, visit_individual_pages=False):
+    def extract_raw_jobs(self, pages_html):
         """
-        Extrai dados das ofertas. Por padrão extrai apenas da listagem (mais rápido).
-        Se visit_individual_pages=True, visita cada página individual para mais detalhes.
+        Extrai dados completos das ofertas visitando páginas individuais para máxima precisão.
         """
         all_offers = []
 
-        # Se vamos visitar páginas individuais, inicializa o driver uma vez
-        if visit_individual_pages:
-            self.init_driver()
+        # Inicializa o driver para visitar páginas individuais
+        self.init_driver()
 
         for page_html in pages_html:
             soup = BeautifulSoup(page_html, "html.parser")
@@ -553,22 +551,17 @@ class JobScraper:
                     # Extrair modo de trabalho (suporte para múltiplos modos)
                     mode = self.extract_work_mode(details_text)
 
-                # Seniority e categoria iniciais (básicos, serão melhorados depois)
-                seniority = self.extract_seniority(title)
-                category = self.extract_category(title)
-
-                # Tecnologias extraídas do título (melhorado)
-                found_techs = self.extract_technologies(title)
-                technologies = ", ".join(found_techs) if found_techs else "N/A"
-
-                # Inicializa campos que só estão disponíveis em páginas individuais
+                # Inicializa campos que serão preenchidos na página individual
                 description = "N/A"
                 pub_date = "N/A"
+                seniority = "N/A"
+                category = "N/A"
+                technologies = "N/A"
 
-                # Se visit_individual_pages=True, visita a página individual para mais detalhes
-                if visit_individual_pages and link != "N/A":
+                # Visita a página individual para obter detalhes completos
+                if link != "N/A":
                     try:
-                        print(f"   🔍 Analisando: {title[:50]}...")
+                        print(f"     Analisando: {title[:50]}...")
                         self.driver.get(link)
                         time.sleep(2)
                         job_soup = BeautifulSoup(self.driver.page_source, "html.parser")
@@ -640,9 +633,9 @@ class JobScraper:
                     "category": category
                 })
 
-        # Fecha o driver se foi usado
-        if visit_individual_pages and self.driver:
+        # Fecha o driver
+        if self.driver:
             self.driver.quit()
 
-        print(f"Foram extraídas {len(all_offers)} ofertas brutas.")
+        print(f"Foram extraídas {len(all_offers)} ofertas completas.")
         return all_offers

@@ -11,7 +11,7 @@ def main():
 
     # Extrai dados completos visitando páginas individuais para melhor precisão
     print("Modo completo ativado - visitando páginas individuais para melhor precisão...")
-    raw_jobs = scraper.extract_raw_jobs(pages, visit_individual_pages=True)
+    raw_jobs = scraper.extract_raw_jobs(pages)
 
     # Analisa e organiza os dados
     parser = JobParser()

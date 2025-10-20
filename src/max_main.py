@@ -48,7 +48,7 @@ def detect_max_pages(scraper):
                 if page_numbers:
                     max_from_links = max(page_numbers)
                     max_pages = max(max_pages, max_from_links)
-                    print(f"   📊 Maior número de página encontrado nos links: {max_from_links}")
+                    print(f"    Maior número de página encontrado nos links: {max_from_links}")
                 break
         
         # Estratégia 2: Procurar por informação de resultados
@@ -73,7 +73,7 @@ def detect_max_pages(scraper):
                     print(f"Páginas totais encontradas na informação: {total_pages}")
                 break
         
-        # Estratégia 3: Testar páginas incrementalmente (sem limite)
+        # Estratégia 3: Testar páginas incrementalmente
         if max_pages <= 3: 
             print("A testar páginas incrementalmente...")
             test_page = 2
@@ -147,7 +147,7 @@ def main():
     if max_pages > 50:
         print("AVISO: Com muitas páginas, este processo pode demorar várias horas!")
     
-    raw_jobs = scraper.extract_raw_jobs(pages, visit_individual_pages=True)
+    raw_jobs = scraper.extract_raw_jobs(pages)
 
     # Analisa e organiza os dados
     parser = JobParser()

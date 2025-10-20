@@ -15,6 +15,7 @@ plt.rcParams['font.family'] = ['DejaVu Sans', 'Arial', 'sans-serif']
 sns.set_palette("husl")
 
 class JobAnalyzer:
+
     def __init__(self, csv_file):
         """Inicializa o analisador com o ficheiro CSV"""
         self.csv_file = csv_file
@@ -103,7 +104,7 @@ class JobAnalyzer:
     def create_location_analysis(self, pdf):
         """Análise por localização"""
         fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(16, 12))
-        fig.suptitle('🌍 Análise por Localização', fontsize=20, fontweight='bold')
+        fig.suptitle('  Análise por Localização', fontsize=20, fontweight='bold')
         
         # 1. Top 15 Cidades
         top_cities = self.df['Cidade_Principal'].value_counts().head(15)
@@ -161,7 +162,7 @@ class JobAnalyzer:
     def create_technology_analysis(self, pdf):
         """Análise de tecnologias"""
         fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(16, 12))
-        fig.suptitle('💻 Análise de Tecnologias', fontsize=20, fontweight='bold')
+        fig.suptitle('   Análise de Tecnologias', fontsize=20, fontweight='bold')
         
         # Extrai todas as tecnologias
         all_technologies = []
@@ -283,19 +284,6 @@ class JobAnalyzer:
         for i, (tech, count) in enumerate(tech_counter.most_common(10), 1):
             summary_text += f"  {i}. {tech}: {count} ofertas\n"
         
-        summary_text += f"""
-  DISTRIBUIÇÃO POR CARACTERÍSTICAS
-─────────────────────────────────────
-• Trabalho Remoto: {remote_pct:.1f}%
-• Nível Senior: {senior_pct:.1f}%
-• Híbrido: {((self.df['Modo_Principal'] == 'Híbrido').sum() / total_jobs * 100):.1f}%
-• Frontend: {((self.df['Categoria'] == 'Frontend').sum() / total_jobs * 100):.1f}%
-• Backend: {((self.df['Categoria'] == 'Backend').sum() / total_jobs * 100):.1f}%
-
-   RELATÓRIO GERADO EM: {datetime.now().strftime('%d/%m/%Y às %H:%M')}
-   FONTE: {self.csv_file}
-"""
-        
         # Adiciona o texto à página
         ax.text(0.05, 0.95, summary_text, transform=ax.transAxes, fontsize=12,
                 verticalalignment='top', fontfamily='monospace',
@@ -313,7 +301,7 @@ class JobAnalyzer:
         
         self.preprocess_data()
         
-        print(f"📄 A gerar relatório PDF: {self.report_name}")
+        print(f"   A gerar relatório PDF: {self.report_name}")
         
         with PdfPages(self.report_name) as pdf:
             # Página 1: Resumo Executivo
@@ -328,8 +316,8 @@ class JobAnalyzer:
             # Página 4: Análise de Tecnologias
             self.create_technology_analysis(pdf)
         
-        print(f"✅ Relatório gerado com sucesso: {self.report_name}")
-        print(f"📍 Localização: {os.path.abspath(self.report_name)}")
+        print(f"  Relatório gerado com sucesso: {self.report_name}")
+        print(f"   Localização: {os.path.abspath(self.report_name)}")
         return True
 
 def main():
