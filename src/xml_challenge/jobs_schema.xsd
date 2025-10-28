@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+  <!-- Definição do elemento raiz -->
+  <xs:element name="ofertas_emprego">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="oferta" type="OfertaType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <!-- Atributos do elemento raiz -->
+      <xs:attribute name="total" type="xs:nonNegativeInteger" use="required"/>
+      <xs:attribute name="fonte" type="xs:string" use="required"/>
+      <xs:attribute name="gerado_por" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Definição do tipo Oferta -->
+  <xs:complexType name="OfertaType">
+    <xs:sequence>
+      <xs:element name="titulo" type="TituloType"/>
+      <xs:element name="empresa" type="EmpresaType"/>
+      <xs:element name="localizacao" type="LocalizacaoType"/>
+      <xs:element name="tecnologias" type="TecnologiasType"/>
+      <xs:element name="seniority" type="SeniorityType"/>
+      <xs:element name="categoria" type="CategoriaType"/>
+      <xs:element name="tipo_contrato" type="TipoContratoType"/>
+      <xs:element name="modo_trabalho" type="ModoTrabalhoType"/>
+      <xs:element name="data_publicacao" type="DataPublicacaoType"/>
+      <xs:element name="descricao" type="DescricaoType"/>
+      <xs:element name="link" type="LinkType"/>
+    </xs:sequence>
+    <!-- ID único da oferta -->
+    <xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+  </xs:complexType>
+
+  <!-- Tipos específicos para cada campo -->
+  
+  <!-- Título da oferta -->
+  <xs:simpleType name="TituloType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="200"/>
+      <xs:pattern value=".*\S.*"/> <!-- Deve conter pelo menos um caractere não-espaço -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Nome da empresa -->
+  <xs:simpleType name="EmpresaType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1"/>
+      <xs:maxLength value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Localização (pode estar vazia) -->
+  <xs:simpleType name="LocalizacaoType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Lista de tecnologias separadas por vírgula -->
+  <xs:simpleType name="TecnologiasType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="500"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Nível de seniority com valores específicos -->
+  <xs:simpleType name="SeniorityType">
+    <xs:union>
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value=""/>
+          <xs:enumeration value="Junior"/>
+          <xs:enumeration value="Mid-level"/>
+          <xs:enumeration value="Senior"/>
+          <xs:enumeration value="Lead"/>
+          <xs:enumeration value="Manager"/>
+          <xs:enumeration value="C-Level"/>
+          <xs:enumeration value="Director"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:union>
+  </xs:simpleType>
+
+  <!-- Categoria profissional -->
+  <xs:simpleType name="CategoriaType">
+    <xs:union>
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value=""/>
+          <xs:enumeration value="Frontend Development"/>
+          <xs:enumeration value="Backend Development"/>
+          <xs:enumeration value="Full Stack Development"/>
+          <xs:enumeration value="Mobile"/>
+          <xs:enumeration value="Data Science"/>
+          <xs:enumeration value="DevOps"/>
+          <xs:enumeration value="QA"/>
+          <xs:enumeration value="Technical Management"/>
+          <xs:enumeration value="Product Management"/>
+          <xs:enumeration value="UI/UX"/>
+          <xs:enumeration value="Cloud Infrastructure"/>
+          <xs:enumeration value="Security"/>
+          <xs:enumeration value="Game Development"/>
+          <xs:enumeration value="Blockchain"/>
+          <xs:enumeration value="AI/ML"/>
+          <!-- Valores encontrados nos dados reais -->
+          <xs:enumeration value="Backend"/>
+          <xs:enumeration value="Frontend"/>
+          <xs:enumeration value="Fullstack"/>
+          <xs:enumeration value="Data Engineering"/>
+          <xs:enumeration value="Infrastructure"/>
+          <xs:enumeration value="ERP/CRM"/>
+          <xs:enumeration value="UX/UI Design"/>
+          <xs:enumeration value="Business Analysis"/>
+          <xs:enumeration value="Software Development"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:union>
+  </xs:simpleType>
+
+  <!-- Tipo de contrato -->
+  <xs:simpleType name="TipoContratoType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="200"/> <!-- Permite valores compostos -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Modo de trabalho -->
+  <xs:simpleType name="ModoTrabalhoType">
+    <xs:union>
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value=""/>
+          <xs:enumeration value="Presencial"/>
+          <xs:enumeration value="Remoto"/>
+          <xs:enumeration value="Híbrido"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:union>
+  </xs:simpleType>
+
+  <!-- Data de publicação (formato texto português) -->
+  <xs:simpleType name="DataPublicacaoType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="50"/>
+      <xs:pattern value=".*[0-9].*"/> <!-- Deve conter pelo menos um dígito -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Descrição da oferta -->
+  <xs:simpleType name="DescricaoType">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="1000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- Link da oferta (URL válida) -->
+  <xs:simpleType name="LinkType">
+    <xs:restriction base="xs:anyURI">
+      <xs:pattern value="https?://.*"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>

@@ -1,0 +1,627 @@
+<?xml version="1.0" ?>
+<ofertas_emprego total="48" fonte="ITJobs.pt" gerado_por="JobScraper-Portugal">
+  <oferta id="1">
+    <titulo>.NET Developer</titulo>
+    <empresa>Xsealence - Sea Technologies</empresa>
+    <localizacao/>
+    <tecnologias>.NET, API REST, Machine Learning</tecnologias>
+    <seniority/>
+    <categoria>QA</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Xsealence possui soluções proprietárias completas de comando, controlo e monitorização para aplicações marítimas, tanto civis como militares. Estas soluções incluem unidades de monitorização remotas que comunicam com centros de comando e controlo centrais e remotos (a bordo de navios e/ou aviões), utilizando comunicações móveis terrestres e satélite. Procuramos um .NET Developer (Full Stack) para integrar a nossa equipa de desenvolvimento de software em projetos tecnologicamente ambiciosos na ...</descricao>
+    <link>https://www.itjobs.pt/oferta/506056/net-developer</link>
+  </oferta>
+  <oferta id="2">
+    <titulo>Business Analyst / Architect ServiceNow</titulo>
+    <empresa>team.it</empresa>
+    <localizacao/>
+    <tecnologias>Machine Learning, TypeScript</tecnologias>
+    <seniority>Lead</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We want to do different with the essential’s things. We are committed to a sustainable corporatism strategy. We believe that success is based on building a team focused on collective well-being, personal and professional development, and based on a work philosophy that enhances the healthy management of our lives. Work-life balance, beginner’s mind and community involvement are our identity, our foundations, and our culture. What you need to join us: Minimum of 5 years of experience in ServiceNo...</descricao>
+    <link>https://www.itjobs.pt/oferta/506061/business-analyst-architect-servicenow</link>
+  </oferta>
+  <oferta id="3">
+    <titulo>Java Developer</titulo>
+    <empresa>KCS IT</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Java, Rust, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Technical Management</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We’re looking for the special, unique and amazing YOU! @ KCS IT, we look for the ones that stands out, for those that always wants to be better and fight for it,  and for those who has the same values that we do: dedication, energy, integrity, transparency, flexibility, trust, honesty, hard work, proactivity, team work. At KCS we stand for equality and value diversity. We create a safe, diverse environment where opportunities are equal for everyone! We do not discriminate based on age, ethnicity...</descricao>
+    <link>https://www.itjobs.pt/oferta/506060/java-developer</link>
+  </oferta>
+  <oferta id="4">
+    <titulo>Java (Android) Developer</titulo>
+    <empresa>Elecctro Solutions</empresa>
+    <localizacao/>
+    <tecnologias>Java, Machine Learning</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Contrato a termo</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Quem Somos A Elecctro é uma empresa portuguesa, fundada em 2014 e localizada no Taguspark em Oeiras, Portugal. Criámos uma plataforma vertical de IoT com tecnologia única e exclusiva onde integramos soluções de hardware e software à medida. Essencialmente, “ligamos máquinas ao mundo” de forma a inovar e potenciar negócios. Desenvolvemos uma solução única e inovadora para sistemas não atendidos. Com mais de 14.000 máquinas instaladas, somos líderes de mercado nacional e em expansão internacional....</descricao>
+    <link>https://www.itjobs.pt/oferta/506052/java-android-developer</link>
+  </oferta>
+  <oferta id="5">
+    <titulo>IT Project Manager</titulo>
+    <empresa>Ebankit - Omnichannel Innovation</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Agile, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Technical Management</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Role: Manage projects according to defined methodology, scope and process (plan, control, assess, report, close); Define the project team organization; Identify and monitor risk factors in the Project and manage project risks; Coordinate the project team communication with the customer (report status and updates); Coach and develop team members. Profile: •    University degree in IT or similar area; •    A project management Certification (PMI, CAP, Agile, Scrum, etc.) will be valued; •    5+ ex...</descricao>
+    <link>https://www.itjobs.pt/oferta/506059/it-project-manager</link>
+  </oferta>
+  <oferta id="6">
+    <titulo>Cybersecurity Project Manager</titulo>
+    <empresa>agap2IT</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Machine Learning</tecnologias>
+    <seniority>Manager</seniority>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Fundada em 2005, em Lisboa, a agap2IT é uma organização europeia na área dos Sistemas de Informação, Ciência e Tecnologia. A capacidade de intervir globalmente aliada à elevada experiência e know-how técnico, funcional e de negócio da equipa, garantem a excelência da resposta aos mais exigentes desafios. Com o espírito agapiano e valores como a valorização humana, empreendedorismo e responsabilidade social, mais do que um projeto, terás a oportunidade de criares uma carreira à tua medida. Descri...</descricao>
+    <link>https://www.itjobs.pt/oferta/506036/cybersecurity-project-manager</link>
+  </oferta>
+  <oferta id="7">
+    <titulo>Senior Kotlin Back-End Developer</titulo>
+    <empresa>Imaginary Cloud</empresa>
+    <localizacao>Lisboa, Porto, Coimbra</localizacao>
+    <tecnologias>Git, Kotlin, Machine Learning, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Backend</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>If you&amp;apos;re passionate about technology and ready for a challenge, join our team of talented individuals and show your technical skills, creativity, and drive for impact. You&amp;apos;ll work with the best in the industry in a supportive, happy, and human-centric environment, making seamless technology. That’s why we were recognized as Best Workplace® in Europe (medium companies), Best Quality of Life Company® and the 2 nd Best Great Place to Work® in Portugal by Great Place to Work®. See for you...</descricao>
+    <link>https://www.itjobs.pt/oferta/506031/senior-kotlin-back-end-developer</link>
+  </oferta>
+  <oferta id="8">
+    <titulo>Data Scientist</titulo>
+    <empresa>Growin - Know to grow</empresa>
+    <localizacao/>
+    <tecnologias>Machine Learning, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato/>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>WE DEVELOP PEOPLE WHO DEVELOP TECHNOLOGY And we want to develop you! At Growin people always come first. Why? Because we believe happy, talented people are the ones who can change the world: one code line at a time. We have several projects waiting for you all over Portugal - both hybrid and full remote - where you can grow professionally and take your career to the next level. Are you a savvy Data Scientist seeking a new challenge in a dynamic team of data experts ? We want to know more about y...</descricao>
+    <link>https://www.itjobs.pt/oferta/506026/data-scientist</link>
+  </oferta>
+  <oferta id="9">
+    <titulo>Full Stack Developer (Node.js/AWS)</titulo>
+    <empresa>KWAN</empresa>
+    <localizacao>Lisboa, Braga</localizacao>
+    <tecnologias>AWS, JavaScript, Node.js, Scala, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Backend</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We are looking for a Full Stack Developer to work in Lisbon or Braga who&amp;apos;s eager to embark on an exciting new opportunity! Apply here &amp;lt;endereço ocultado&amp;gt; About KWAN We connect IT professionals with projects that match their skills, professional experience, and goals, then we offer a career progression program, delivered by in-house specialists - our People Experience Partners - to guide them through our journey with us. What we are looking for • 5+ proven experience as a Backend Devel...</descricao>
+    <link>https://www.itjobs.pt/oferta/505946/full-stack-developer-node-js-aws</link>
+  </oferta>
+  <oferta id="10">
+    <titulo>Operational Security &amp;amp; IAM Engineer</titulo>
+    <empresa>Integer Consulting</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Machine Learning, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Integer Consulting é uma empresa portuguesa de consultoria em tecnologias de informação. Somos especialistas em serviços de IT outsourcing, software, projetos de nearshore e desenvolvimento à medida. Somos parceiros dos principais players tecnológicos a nível mundial e trabalhamos com empresas nacionais e multinacionais de diversos setores de atividade. A maioria dos projetos em que participamos são em Portugal, no Brasil e um pouco por toda a Europa. O que nos diferencia é o talento tecnológi...</descricao>
+    <link>https://www.itjobs.pt/oferta/505952/operational-security-iam-engineer</link>
+  </oferta>
+  <oferta id="11">
+    <titulo>Azure Data Engineer</titulo>
+    <empresa>Neotalent Conclusion</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Azure, Git, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Engineering</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Who are we: Neotalent Conclusion is one of the leading Iberian specialists providing services in Information Technology and Engineering services. As part of the Netherlands-based organization Conclusion, which has an ecosystem of over 25 companies and 3,600 employees, we are focused on increasing the technological capacity of our clients and the digital transformation of their application ecosystems. We are talent specialists, attracting the best people and combining them with the needs of the m...</descricao>
+    <link>https://www.itjobs.pt/oferta/505869/azure-data-engineer</link>
+  </oferta>
+  <oferta id="12">
+    <titulo>C# Regulatory Developer</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>API REST, C#, Git, Jenkins, Python, SQL, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Backend</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. This project is part of the business investment banking and financial services area, and currently has its technological hub in Porto and is working on the development of innovative solutions and support for all operations related to the business. We are looking for...</descricao>
+    <link>https://www.itjobs.pt/oferta/504948/c-regulatory-developer</link>
+  </oferta>
+  <oferta id="13">
+    <titulo>QAE FR</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>QA</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking a Test Automation Engineer (French Speaker) Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our re...</descricao>
+    <link>https://www.itjobs.pt/oferta/504878/qae-fr</link>
+  </oferta>
+  <oferta id="14">
+    <titulo>IT Risk Analyst</titulo>
+    <empresa>agap2IT</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Machine Learning, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Fundada em 2005, em Lisboa, a agap2IT é uma organização europeia na área dos Sistemas de Informação, Ciência e Tecnologia. A capacidade de intervir globalmente aliada à elevada experiência e know-how técnico, funcional e de negócio da equipa, garantem a excelência da resposta aos mais exigentes desafios. Com o espírito agapiano e valores como a valorização humana, empreendedorismo e responsabilidade social, mais do que um projeto, terás a oportunidade de criares uma carreira à tua medida. Descri...</descricao>
+    <link>https://www.itjobs.pt/oferta/506037/it-risk-analyst</link>
+  </oferta>
+  <oferta id="15">
+    <titulo>Developer C++ Scada &amp;amp; Protocols</titulo>
+    <empresa>YellowIpe</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>C++, Machine Learning, R, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>QA</categoria>
+    <tipo_contrato/>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>About YellowIpe Our mission is to inspire the connection between technology and people, we foster the best of our professionals through our expertise in finding and attracting the best talent for the best projects. The Focus on People, Collaboration and Commitment are the pillars that guide us in this trajectory. Join the yellow team as our new Developer C++ Scada &amp;amp; Protocols! Responsibilities: Develop software for high-availability critical systems; Participate in the complete development c...</descricao>
+    <link>https://www.itjobs.pt/oferta/506038/developer-c-scada-protocols</link>
+  </oferta>
+  <oferta id="16">
+    <titulo>Developer Back-end or Full-stack Java</titulo>
+    <empresa>YellowIpe</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Java, Machine Learning, R, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>QA</categoria>
+    <tipo_contrato/>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>About YellowIpe Our mission is to inspire the connection between technology and people, we foster the best of our professionals through our expertise in finding and attracting the best talent for the best projects. The Focus on People, Collaboration and Commitment are the pillars that guide us in this trajectory. Join the yellow team as our new Developer Back-end or Full-stack Java! Responsibilities: Develop software (Java) for high-availability critical systems; Participate in the complete deve...</descricao>
+    <link>https://www.itjobs.pt/oferta/506039/developer-back-end-or-full-stack-java</link>
+  </oferta>
+  <oferta id="17">
+    <titulo>Data Engineer</titulo>
+    <empresa>GRiT Solutions</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>Machine Learning, Rust</tecnologias>
+    <seniority/>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Data Engineer Building Data Highways: Data Engineer Position Available! There&amp;apos;s no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal. We are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations. Recognizing each person’s unique contribution to ...</descricao>
+    <link>https://www.itjobs.pt/oferta/506020/data-engineer</link>
+  </oferta>
+  <oferta id="18">
+    <titulo>IT/OT Specialist</titulo>
+    <empresa>QiBit Portugal</empresa>
+    <localizacao>Aveiro</localizacao>
+    <tecnologias>Git, Machine Learning, Scala, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We are looking for an IT/OT Specialist, to integrate the team of our client - a company in the cork sector. What will be your main tasks and responsibilities? Develop and maintain the reference technical architecture for OT and MES, aligned with corporate standards and best practices; Lead the definition of governance, security, and technological evolution guidelines, supporting digital transformation initiatives such as IoT, digital twins, analytics, and real-time control; Collaborate with IT a...</descricao>
+    <link>https://www.itjobs.pt/oferta/506022/it-ot-specialist</link>
+  </oferta>
+  <oferta id="19">
+    <titulo>Java Developer</titulo>
+    <empresa>Growin - Know to grow</empresa>
+    <localizacao/>
+    <tecnologias>Java, Machine Learning, Python, Spring, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>WE DEVELOP PEOPLE WHO DEVELOP TECHNOLOGY And we want to develop you! At Growin people always come first. Why? Because we believe happy, talented people are the ones who can change the world: one code line at a time. We have projects waiting for you in Brussels , where you can grow professionally and take your career to the next level. This is an opportunity of a lifetime to travel through Europe and meet new people. We can help you explore your potential and discover new realities in other count...</descricao>
+    <link>https://www.itjobs.pt/oferta/506025/java-developer</link>
+  </oferta>
+  <oferta id="20">
+    <titulo>Digital Marketing Consultant Junior</titulo>
+    <empresa>Integer Consulting</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Git, Machine Learning, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Integer Consulting é uma empresa portuguesa de consultoria em tecnologias de informação. Somos especialistas em serviços de IT outsourcing, software, projetos de nearshore e desenvolvimento à medida. Somos parceiros dos principais players tecnológicos a nível mundial e trabalhamos com empresas nacionais e multinacionais de diversos setores de atividade. A maioria dos projetos em que participamos são em Portugal, no Brasil e um pouco por toda a Europa. O que nos diferencia é o talento tecnológi...</descricao>
+    <link>https://www.itjobs.pt/oferta/505955/digital-marketing-consultant-junior</link>
+  </oferta>
+  <oferta id="21">
+    <titulo>Backend Developer (Java)</titulo>
+    <empresa>KWAN</empresa>
+    <localizacao>Lisboa, Coimbra, Braga</localizacao>
+    <tecnologias>Agile, Java, Machine Learning, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Backend</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We are looking for a Java Developer who&amp;apos;s eager to embark on an exciting new opportunity! Apply here &amp;lt;endereço ocultado&amp;gt; About KWAN We connect IT professionals with projects that match their skills, professional experience, and goals, then we offer a career progression program, delivered by in-house specialists - our People Experience Partners - to guide them through our journey with us. What is this challenge about - Collaborate in a fully Agile Scrum environment, contributing to spr...</descricao>
+    <link>https://www.itjobs.pt/oferta/505914/backend-developer-java</link>
+  </oferta>
+  <oferta id="22">
+    <titulo>DevOps Engineer (Azure)</titulo>
+    <empresa>Neotalent Conclusion</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Azure, DevOps, Git, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>DevOps</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Who are we: Neotalent Conclusion is one of the leading Iberian specialists providing services in Information Technology and Engineering services. As part of the Netherlands-based organization Conclusion, which has an ecosystem of over 25 companies and 3,600 employees, we are focused on increasing the technological capacity of our clients and the digital transformation of their application ecosystems. We are talent specialists, attracting the best people and combining them with the needs of the m...</descricao>
+    <link>https://www.itjobs.pt/oferta/505871/devops-engineer-azure</link>
+  </oferta>
+  <oferta id="23">
+    <titulo>DevOps Engineer</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>DevOps, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>DevOps</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking a DevOps Engineer: Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our recruiters do their best to...</descricao>
+    <link>https://www.itjobs.pt/oferta/504870/devops-engineer</link>
+  </oferta>
+  <oferta id="24">
+    <titulo>Integration Architect</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Infrastructure</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking an Integration Architect: Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our recruiters do their ...</descricao>
+    <link>https://www.itjobs.pt/oferta/504869/integration-architect</link>
+  </oferta>
+  <oferta id="25">
+    <titulo>Business Analyst (French Speaker)</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Technical Management</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. This project is part of the business investment banking and financial services area, and currently has its technological hub in Porto and is working on the development of innovative solutions and support for all operations related to the business. We are looking for...</descricao>
+    <link>https://www.itjobs.pt/oferta/504945/business-analyst-french-speaker</link>
+  </oferta>
+  <oferta id="26">
+    <titulo>SAP SD Senior Consultant</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>API REST, Git, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>ERP/CRM</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. If you enjoy the thrill of the challenges that Digital Transformation and Energy Transition bring to companies, this project may be interesting to you. Here you will be able to work with the development of personalized services and end-to-end solutions. We are looki...</descricao>
+    <link>https://www.itjobs.pt/oferta/504941/sap-sd-senior-consultant</link>
+  </oferta>
+  <oferta id="27">
+    <titulo>Técnico de Software PHC</titulo>
+    <empresa>Elevar Global</empresa>
+    <localizacao>Faro</localizacao>
+    <tecnologias>Go, Machine Learning</tecnologias>
+    <seniority>Junior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Contrato a termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Elevar Global, Lda , empresa em crescimento no setor das tecnologias de informação, procura um Técnico de Software PHC para reforçar a sua equipa de suporte e desenvolvimento de soluções empresariais. O profissional selecionado será responsável pela instalação, configuração, manutenção e personalização de sistemas PHC , bem como pelo apoio técnico e funcional a clientes internos e externos. Principais Responsabilidades Implementação e parametrização de soluções PHC (CS, Go, entre outros); Anál...</descricao>
+    <link>https://www.itjobs.pt/oferta/506047/tecnico-de-software-phc</link>
+  </oferta>
+  <oferta id="28">
+    <titulo>Android Developer</titulo>
+    <empresa>Ebankit - Omnichannel Innovation</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>API REST, Git, Java, Kotlin, Machine Learning, SVN, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Role: Participate in the product roadmap development, playing roles where technology specification is required; Researching, designing, implementing and managing software programs and produce the proper documentation about the software; Writing and implementing efficient code; Develops, enhances, debugs, supports, maintains and tests software components mainly on top of ebankIT product platform. Profile: Academic Degree in Computer Science or similar area; 5 years minimum of experience in the Mo...</descricao>
+    <link>https://www.itjobs.pt/oferta/506058/android-developer</link>
+  </oferta>
+  <oferta id="29">
+    <titulo>Senior DevOps Engineer</titulo>
+    <empresa>Imaginary Cloud</empresa>
+    <localizacao>Lisboa, Porto, Coimbra</localizacao>
+    <tecnologias>DevOps, Git, Machine Learning, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>If you&amp;apos;re passionate about technology and ready for a challenge, join our team of talented individuals and show your technical skills, creativity, and drive for impact. You&amp;apos;ll work with the best in the industry in a supportive, happy, and human-centric environment, making seamless technology. That’s why we were recognized as Best Workplace® in Europe (medium companies), Best Quality of Life Company® and the 2 nd Best Great Place to Work® in Portugal by Great Place to Work®. See for you...</descricao>
+    <link>https://www.itjobs.pt/oferta/506030/senior-devops-engineer</link>
+  </oferta>
+  <oferta id="30">
+    <titulo>Frontend Developer - ReactJS</titulo>
+    <empresa>Growin - Know to grow</empresa>
+    <localizacao/>
+    <tecnologias>Git, JavaScript, Machine Learning, Python, React, SVN, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Frontend</categoria>
+    <tipo_contrato/>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>WE DEVELOP PEOPLE WHO DEVELOP TECHNOLOGY And we want to develop you! At Growin people always come first. Why? Because we believe happy, talented people are the ones who can change the world: one code line at a time. We have several projects waiting for you all over Portugal - both hybrid and full remote - where you can grow professionally and take your career to the next level. Are you a savvy ReactJS Developer seeking a new challenge in a dynamic team of expert developers ? We want to know more...</descricao>
+    <link>https://www.itjobs.pt/oferta/506023/frontend-developer-reactjs</link>
+  </oferta>
+  <oferta id="31">
+    <titulo>Software Engineer – Java Developer</titulo>
+    <empresa>GRiT Solutions</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Java, Rust</tecnologias>
+    <seniority/>
+    <categoria>UX/UI Design</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Software Engineer – Java Developer Code Maestro Wanted: Java Developer Opening! There&amp;apos;s no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal. We are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations. Recognizing each person’s unique contribu...</descricao>
+    <link>https://www.itjobs.pt/oferta/506015/software-engineer-java-developer</link>
+  </oferta>
+  <oferta id="32">
+    <titulo>JAVA Software Developer</titulo>
+    <empresa>Adentis</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Java, Machine Learning, R, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Com mais de 8 anos de existência a nível nacional, contamos com mais de 200 colaboradores com o nosso ADN e posicionamo-nos no mercado com 3 ofertas de serviço: Strategy (Outsourcing, Team as a Service, Tech Academies); R&amp;amp;D (Estágios, POC, Laboratório Tecnológico); Nearshore. Na ADENTIS centramo-nos nas PESSOAS e é este o nosso salário emocional: Equilíbrio entre a vida profissional e pessoal; Flexibilidade na rotina organizacional; Benefícios de saúde para colaboradores e familiares; Evento...</descricao>
+    <link>https://www.itjobs.pt/oferta/505985/java-software-developer</link>
+  </oferta>
+  <oferta id="33">
+    <titulo>C++ Developer</titulo>
+    <empresa>KWAN</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>C++, TypeScript</tecnologias>
+    <seniority>Lead</seniority>
+    <categoria>Infrastructure</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We are looking for a C++ Developer to work in Lisbon who&amp;apos;s eager to embark on an exciting new opportunity! Apply here &amp;lt;endereço ocultado&amp;gt; About KWAN We connect IT professionals with projects that match their skills, professional experience, and goals, then we offer a career progression program, delivered by in-house specialists - our People Experience Partners - to guide them through our journey with us. What we are looking for •  6+ years of professional experience; •  Strong knowled...</descricao>
+    <link>https://www.itjobs.pt/oferta/505913/c-developer</link>
+  </oferta>
+  <oferta id="34">
+    <titulo>Consultor de Transformação Digital em Inteligência Artificial</titulo>
+    <empresa>Integer Consulting</empresa>
+    <localizacao/>
+    <tecnologias>Git, Machine Learning, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Integer Consulting é uma empresa portuguesa de consultoria em tecnologias de informação. Somos especialistas em serviços de IT outsourcing, software, projetos de nearshore e desenvolvimento à medida. Somos parceiros dos principais players tecnológicos a nível mundial e trabalhamos com empresas nacionais e multinacionais de diversos setores de atividade. A maioria dos projetos em que participamos são em Portugal, no Brasil e um pouco por toda a Europa. O que nos diferencia é o talento tecnológi...</descricao>
+    <link>https://www.itjobs.pt/oferta/505894/consultor-de-transformacao-digital-em-inteligencia-artificial</link>
+  </oferta>
+  <oferta id="35">
+    <titulo>FullStack Developer (AI)</titulo>
+    <empresa>Neotalent Conclusion</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Git, Machine Learning, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Fullstack</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Who are we: Neotalent Conclusion is one of the leading Iberian specialists providing services in Information Technology and Engineering services. As part of the Netherlands-based organization Conclusion, which has an ecosystem of over 25 companies and 3,600 employees, we are focused on increasing the technological capacity of our clients and the digital transformation of their application ecosystems. We are talent specialists, attracting the best people and combining them with the needs of the m...</descricao>
+    <link>https://www.itjobs.pt/oferta/505866/fullstack-developer-ai</link>
+  </oferta>
+  <oferta id="36">
+    <titulo>TIBCO BWCE Specialist</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Business Analysis</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. Are you passionate about the healthcare field? If so, this project offers you the opportunity to be part of a team that develops cutting-edge products and services for over 400 hospitals, clinics, and pharmacies across the Iberian Peninsula. By working on innovative...</descricao>
+    <link>https://www.itjobs.pt/oferta/504934/tibco-bwce-specialist</link>
+  </oferta>
+  <oferta id="37">
+    <titulo>Business Analyst</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Infrastructure</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking a Business Analyst: Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our recruiters do their best t...</descricao>
+    <link>https://www.itjobs.pt/oferta/504863/business-analyst</link>
+  </oferta>
+  <oferta id="38">
+    <titulo>Backend Developer - NodeJS</titulo>
+    <empresa>Growin - Know to grow</empresa>
+    <localizacao/>
+    <tecnologias>AWS, Docker, JavaScript, Kubernetes, Machine Learning, Node.js, Python, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Backend</categoria>
+    <tipo_contrato/>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>WE DEVELOP PEOPLE WHO DEVELOP TECHNOLOGY And we want to develop you! At Growin people always come first. Why? Because we believe happy, talented people are the ones who can change the world: one code line at a time. We have several projects waiting for you all over Portugal - both hybrid and full remote - where you can grow professionally and take your career to the next level. Are you a savvy NodeJS Developer seeking a new challenge in a dynamic team of developers? We want to know more about yo...</descricao>
+    <link>https://www.itjobs.pt/oferta/506024/backend-developer-nodejs</link>
+  </oferta>
+  <oferta id="39">
+    <titulo>Cobol Developer</titulo>
+    <empresa>GRiT Solutions</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Rust</tecnologias>
+    <seniority/>
+    <categoria>UX/UI Design</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Cobol Developer Dive into Development: Join as a Cobol Enthusiast! There&amp;apos;s no secret to become number-one, it takes willingness to improve and determination to pursue it. At GRiT®, it’s all about the journey getting there. We trust talent and intelligence are important, yet passion and perseverance are key to achieving any goal. We are Tech Passionate People with a Purpose, delivering solutions while building strong long-term relations. Recognizing each person’s unique contribution to our c...</descricao>
+    <link>https://www.itjobs.pt/oferta/506018/cobol-developer</link>
+  </oferta>
+  <oferta id="40">
+    <titulo>Data Engineer (Remote)</titulo>
+    <empresa>Adentis</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>Machine Learning, R, TypeScript</tecnologias>
+    <seniority/>
+    <categoria>Mobile</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Com mais de 8 anos de existência a nível nacional, contamos com mais de 200 colaboradores com o nosso ADN e posicionamo-nos no mercado com 3 ofertas de serviço: Strategy (Outsourcing, Team as a Service, Tech Academies); R&amp;amp;D (Estágios, POC, Laboratório Tecnológico); Nearshore. Na ADENTIS centramo-nos nas PESSOAS e é este o nosso salário emocional: Equilíbrio entre a vida profissional e pessoal; Flexibilidade na rotina organizacional; Benefícios de saúde para colaboradores e familiares; Evento...</descricao>
+    <link>https://www.itjobs.pt/oferta/505984/data-engineer-remote</link>
+  </oferta>
+  <oferta id="41">
+    <titulo>Node.js Fullstack Developer</titulo>
+    <empresa>KWAN</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Google Cloud, JavaScript, Machine Learning, Next.js, Node.js, React, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Frontend</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>We are looking for a Node.js Fullstack Developer to work in Lisbon who&amp;apos;s eager to embark on an exciting new opportunity! Apply here &amp;lt;endereço ocultado&amp;gt; About KWAN We connect IT professionals with projects that match their skills, professional experience, and goals, then we offer a career progression program, delivered by in-house specialists - our People Experience Partners - to guide them through our journey with us. What we are looking for •  5+ years of professional experience; •  ...</descricao>
+    <link>https://www.itjobs.pt/oferta/505912/node-js-fullstack-developer</link>
+  </oferta>
+  <oferta id="42">
+    <titulo>Técnico Manutenção de Data Lake Corporativo</titulo>
+    <empresa>Integer Consulting</empresa>
+    <localizacao/>
+    <tecnologias>Machine Learning, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Data Science</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>A Integer Consulting é uma empresa portuguesa de consultoria em tecnologias de informação. Somos especialistas em serviços de IT outsourcing, software, projetos de nearshore e desenvolvimento à medida. Somos parceiros dos principais players tecnológicos a nível mundial e trabalhamos com empresas nacionais e multinacionais de diversos setores de atividade. A maioria dos projetos em que participamos são em Portugal, no Brasil e um pouco por toda a Europa. O que nos diferencia é o talento tecnológi...</descricao>
+    <link>https://www.itjobs.pt/oferta/505910/tecnico-manutencao-de-data-lake-corporativo</link>
+  </oferta>
+  <oferta id="43">
+    <titulo>RPA Developer</titulo>
+    <empresa>Neotalent Conclusion</empresa>
+    <localizacao>Lisboa</localizacao>
+    <tecnologias>Git, Python, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Software Development</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Who are we: Neotalent Conclusion is one of the leading Iberian specialists providing services in Information Technology and Engineering services. As part of the Netherlands-based organization Conclusion, which has an ecosystem of over 25 companies and 3,600 employees, we are focused on increasing the technological capacity of our clients and the digital transformation of their application ecosystems. We are talent specialists, attracting the best people and combining them with the needs of the m...</descricao>
+    <link>https://www.itjobs.pt/oferta/505867/rpa-developer</link>
+  </oferta>
+  <oferta id="44">
+    <titulo>Site Reliability Engineer</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>DevOps</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking a Site Reliability Engineer: Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our recruiters do the...</descricao>
+    <link>https://www.itjobs.pt/oferta/504867/site-reliability-engineer</link>
+  </oferta>
+  <oferta id="45">
+    <titulo>Azure Cloud Engineer</titulo>
+    <empresa>We Are Meta</empresa>
+    <localizacao>Porto</localizacao>
+    <tecnologias>Azure, TypeScript</tecnologias>
+    <seniority>C-Level</seniority>
+    <categoria>Infrastructure</categoria>
+    <tipo_contrato>Contrato a termo, Contrato sem termo, Prestação de Serviços</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Seeking a Azure Cloud Engineer: Rhino, are you there? At WE ARE META, we focus on finding the perfect match between our Rhinos and our clients. Why join us? Expand your network: As a consultant at We Are META, you’ll have access to a network of national and international partners across diverse sectors of the tech industry. Enjoy our perks: When you join the crash you’ll have an array of benefits , to help you achieve the best work-life balance. Get your perfect match: Our recruiters do their be...</descricao>
+    <link>https://www.itjobs.pt/oferta/504866/azure-cloud-engineer</link>
+  </oferta>
+  <oferta id="46">
+    <titulo>Lead Java Developer</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>Java, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Business Analysis</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. Are you eager to be part of a multinational project in the field of information technology? Here you’ll have the opportunity to work as a consultant and collaborate with talented colleagues and clients across the globe. Join us in this project and start making a con...</descricao>
+    <link>https://www.itjobs.pt/oferta/504933/lead-java-developer</link>
+  </oferta>
+  <oferta id="47">
+    <titulo>IBM CP4I Specialist</titulo>
+    <empresa>Dellent</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Business Analysis</categoria>
+    <tipo_contrato>Full-time</tipo_contrato>
+    <modo_trabalho>Presencial</modo_trabalho>
+    <data_publicacao>20 de Outubro de 2025</data_publicacao>
+    <descricao>Dellent is a consulting company focused in System Information and Telecommunications. Our goal is to help our candidates and consultants to take a step forward in their careers through projects that meet their needs and expectations. Are you passionate about the healthcare field? If so, this project offers you the opportunity to be part of a team that develops cutting-edge products and services for over 400 hospitals, clinics, and pharmacies across the Iberian Peninsula. By working on innovative...</descricao>
+    <link>https://www.itjobs.pt/oferta/504932/ibm-cp4i-specialist</link>
+  </oferta>
+  <oferta id="48">
+    <titulo>Senior Power Platform Developer &amp;amp; Administrator</titulo>
+    <empresa>Integer Consulting</empresa>
+    <localizacao>Lisboa, Porto</localizacao>
+    <tecnologias>Power Platform, TypeScript</tecnologias>
+    <seniority>Senior</seniority>
+    <categoria>Software Development</categoria>
+    <tipo_contrato>Contrato sem termo</tipo_contrato>
+    <modo_trabalho>Remoto</modo_trabalho>
+    <data_publicacao>19 de Outubro de 2025</data_publicacao>
+    <descricao>Integer Consulting is a Portuguese IT consulting company. We specialize in IT outsourcing services, software, nearshore projects and custom development. We are partners of the world&amp;apos;s leading technology players and work with national and multinational companies from a wide range of industries. Most of the projects in which we participate are in Portugal, Brazil and throughout Europe. What sets us apart is the technological talent and experience of the people who make up our team and are par...</descricao>
+    <link>https://www.itjobs.pt/oferta/505895/senior-power-platform-developer-administrator</link>
+  </oferta>
+</ofertas_emprego>
